@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucide-agdi
-- 👀 I’m interested in designing website 
-- 🌱 I’m currently learning at bmb tvet school 
-- 💞️ I’m looking to collaborate on web designing 
+- 👀 I’m interested in web application design  
+- 🌱 I studied at RWANDA Coding academy school from 2020-2023
+- 💞️ I’m looking to collaborate on web application designing 
 - 📫 How to reach me ...
 
 <!---
